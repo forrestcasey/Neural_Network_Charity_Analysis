@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 
-### - From Alphabet Soup’s business team, Beks received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as the following:
+- From Alphabet Soup’s business team, Beks received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as the following:
 
 - EIN and NAME—Identification columns
 - APPLICATION_TYPE—Alphabet Soup application type
